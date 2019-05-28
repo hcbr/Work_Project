@@ -180,12 +180,12 @@ man_info = info
 
 '''select suitable data'''
 
-import os
-import microband
-import sensomicsbandV123 as sob
-import pandas as pd
-import datetime as dt
-from analysis import Correlation
+#import os
+#import parseData.microband
+#import parseData.sensomicsbandV123 as sob
+#import pandas as pd
+#import datetime as dt
+#from analysis import Correlation
 
 ## sensomic data
 filepath = './data/sens/2019-3-13'
